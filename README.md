@@ -3,6 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d080876e-60a9-4e05-adb8-4d7ea24d4c8a/deploy-status)](https://app.netlify.com/sites/angularobservablesdemo/deploys)
+
 View at: <https://angularobservablesdemo.netlify.app/>
 
 ## Development server
